@@ -34,6 +34,10 @@ The MedViT model outperformed other architectures in this project, achieving a v
 ## Acknowledgments
 This project was inspired by the RSNA-MICCAI Brain Tumor Radiogenomic Classification Challenge. Special thanks to Dr. Minh-Triet Tran for his invaluable guidance and to the entire team for their support.
 
+## Author
+1. Nguyễn Quang Thịnh
+2. Trần Quốc Duy
+   
 ## License
 This project is licensed under the MIT License - see the LICENSE file for details.
 
