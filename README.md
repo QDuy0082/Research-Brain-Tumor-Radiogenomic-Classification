@@ -22,10 +22,10 @@ This project focuses on classifying glioblastoma, a type of brain tumor, using m
    ```bash
    pip install -r requirements.txt
 ## Usage
-**Training:** To start model training, run the following command:
-```bash
-   python train_model.py
-**Evaluation:** To evaluate the model on the validation or test set, use:
+- **Training:** To start model training, run the following command:
+  ```bash
+  python train_model.py
+- **Evaluation:** To evaluate the model on the validation or test set, use:
    ```bash
    python evaluate_model.py
 ## Results
